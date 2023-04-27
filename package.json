@@ -17,5 +17,9 @@
         "path": "./themes/oak-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "url": "git@github.com:GameCater/oak.git",
+    "type": "ssh"
   }
 }
