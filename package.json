@@ -1,0 +1,21 @@
+{
+  "name": "alogc",
+  "displayName": "oak",
+  "description": "living in nature, returning to nature. ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "oak",
+        "uiTheme": "vs",
+        "path": "./themes/oak-color-theme.json"
+      }
+    ]
+  }
+}
